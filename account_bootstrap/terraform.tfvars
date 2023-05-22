@@ -1,0 +1,2 @@
+model_bucket_name = "private-models-xyz" # replace with your bucket name. This name must be unique across all existing bucket names in Amazon S3.
+ecr_repository_endpoint_name = "private-code-generator" # You can choose any name for your ECR repository.
